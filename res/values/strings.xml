@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HelloMeActivity!</string>
+    <string name="app_name">HelloMe</string>
+    <string name="Name">Name</string>
+    <string name="Address">Address</string>
+    <string name="Age">Age</string>
+    <string name="myNameIs">My Name Is :</string>
+    <string name="myAgeIs">My Age Is :</string>
+    <string name="myAddressIs">My Address Is :</string>
+
+</resources>
